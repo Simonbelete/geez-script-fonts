@@ -3,7 +3,10 @@ Collection of Geez script fonts
 
 ## Usage
 
+
 ## Ye/የ typeface
 
-* Amed-1/አምድ-፩
+Show case links :-
+
+* Amed-1/አምድ-፩ - [View fonts](https://simonbelete.github.io/geez-script-fonts/amed-1/)
 
