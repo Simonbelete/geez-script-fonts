@@ -3,7 +3,6 @@ Collection of Geez script fonts
 
 ## Usage
 
-
 ## Ye/የ typeface
 
 Show case links :-
