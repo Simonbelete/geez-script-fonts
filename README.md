@@ -1,5 +1,5 @@
 # Geez script fonts
-Collection of Geez script fonts
+Contains a collection of the geez script fonts that i found from different sources i cannot take all credit for all the fonts except for some.
 
 ## Usage
 
