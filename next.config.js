@@ -5,7 +5,7 @@ const nextConfig = {
   trailingSlash: true,
   output: "export",
   distDir: "docs",
-  basePath: "/github-pages",
+  basePath: "/geez-script-fonts",
 };
 
 module.exports = nextConfig;
